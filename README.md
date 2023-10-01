@@ -14,3 +14,19 @@
 что чаще всего история сообщений хранится на сервере и заполнение истории чата лучше делать при соединении с сервером, а не при открытии окна клиента.
 
 ### Скриншоты работы приложения 
+
+![1](https://github.com/PavelLogeiko/networkchat/blob/main/Image/1.png)
+
+![2](https://github.com/PavelLogeiko/networkchat/blob/main/Image/2.png)
+
+![3](https://github.com/PavelLogeiko/networkchat/blob/main/Image/3.png)
+
+![4](https://github.com/PavelLogeiko/networkchat/blob/main/Image/4.png)
+
+![5](https://github.com/PavelLogeiko/networkchat/blob/main/Image/5.png)
+
+![6](https://github.com/PavelLogeiko/networkchat/blob/main/Image/6.png)
+
+![7](https://github.com/PavelLogeiko/networkchat/blob/main/Image/7.png)
+
+
